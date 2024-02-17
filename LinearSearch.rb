@@ -14,7 +14,7 @@ def linear_search(array, target)
 end
 
 arr = [10, 20, 30, 80, 50, 60, 70]
-target = 25
+target = 30
 
 result = linear_search(arr, target)
 if result
